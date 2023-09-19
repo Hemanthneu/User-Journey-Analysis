@@ -1,6 +1,4 @@
-# User-Journey-Analysis
-
-Create your own functions and tools to analyze user journey strings in Python
+# Create your own functions and tools to analyze user journey strings in Python
 
 Welcome to the User Journey Analysis Toolkit! This repository is dedicated to building essential Python tools and functions for analyzing the user journeys within your product or platform. A user journey encompasses each individual's experience while navigating your platform, including the sequence of pages they visit leading up to a subscription purchase.
 
